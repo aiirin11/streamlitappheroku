@@ -1,5 +1,7 @@
 numpy == 2.0.2
 pickle-mixin
+pandas
+seaborn
 streamlit
 streamlit-option-menu
 scikit-learn == 1.6.1
