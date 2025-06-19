@@ -6,5 +6,7 @@ matplotlib
 flask
 streamlit
 streamlit-option-menu
-scikit-learn == 1.6.1
+scikit-learn
+xgboost
+imblearn
 protobuf== 6.31.1
