@@ -3,7 +3,6 @@ pickle-mixin
 pandas
 seaborn
 matplotlib
-xgboost-XGBClassifier
 flask
 streamlit
 streamlit-option-menu
