@@ -2,6 +2,10 @@ numpy == 2.0.2
 pickle-mixin
 pandas
 seaborn
+matplotlib
+xgboost
+SMOTE
+flask
 streamlit
 streamlit-option-menu
 scikit-learn == 1.6.1
